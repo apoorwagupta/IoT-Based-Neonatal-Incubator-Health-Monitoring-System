@@ -43,9 +43,9 @@ Below is the brief description of our system :
       - Meanwhile, ECG necessitates the continual application of numerous electrodes with a particular gel, causing discomfort, suffering, and skin damage in the fragile preterm child. It's also difficult to manage.
       - In order to overcome this, we used infrared technology to extract the heartbeats
 
-       - Hypoxemia and apnea can be detected early using Respiration and Blood Oxygenation data.
-       - Heart Rate helps to detect any kind of cardiovascular disorder in the infant. It also helps to detect arrhythmia(heart can beat too fast, too slowly, or with an irregular rhythm) or irregular heartbeats and ensures the normal working condition of the cardiac system.
-       - The arterial SpO2 plays a major role in infant baby’s health.There is a difficult balance between too much and too little supplemental oxygen exposure in premature neonatal care. Because both too much and too little supplemental oxygen can harm preemies, their SpO2 levels must be maintained and regulated between 90 and 93 percent to avoid illnesses.
+      - Hypoxemia and apnea can be detected early using Respiration and Blood Oxygenation data.
+      - Heart Rate helps to detect any kind of cardiovascular disorder in the infant. It also helps to detect arrhythmia(heart can beat too fast, too slowly, or with an irregular rhythm) or irregular heartbeats and ensures the normal working condition of the cardiac system.
+      - The arterial SpO2 plays a major role in infant baby’s health.There is a difficult balance between too much and too little supplemental oxygen exposure in premature neonatal care. Because both too much and too little supplemental oxygen can harm preemies, their SpO2 levels must be maintained and regulated between 90 and 93 percent to avoid illnesses.
 
 * MICROCONTROLLER: The microcontroller ARDUINO UNO receives and collects data from each of the sensors.
 
