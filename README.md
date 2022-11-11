@@ -28,17 +28,16 @@ Below is the brief description of our system :
 
 * SENSORS:
 
-   1. DHT11 for the suitable environment monitoring for the neonate: Increase in the temperature of the incubator as well as oxygen consumption of preterm infants takes place because of relatively low humidity.We need to maintain constant temperature in a relatively small area without harming the baby in the incubator.
+  1. DHT11 for the suitable environment monitoring for the neonate: Increase in the temperature of the incubator as well as oxygen consumption of preterm infants takes place because of relatively low humidity.We need to maintain constant temperature in a relatively small area without harming the baby in the incubator.
       - Less humidity causes problems like hypothermia, dehydration in the infants.
       - If the humidity is low it tends to raise the insensible water losses, which in turn increases heat evaporation and moisture loss. 
       - Relatively higher levels of humidity is also not suitable for infants as it will increase the possibility for germs and bacteria.
 
-    2. LM35 for body temperature: Fever is a typical indicator of infections, the common cold, and pneumonia, and temperature monitoring of the infant's body will aid in the detection of many other internal disorders.
+  2. LM35 for body temperature: Fever is a typical indicator of infections, the common cold, and pneumonia, and temperature monitoring of the infant's body will aid in the detection of many other internal disorders.
       - When an infant's body temperature is not controlled, hypothermia is a serious risk. Preterm delivery problems, coagulation abnormalities, infection, and other issues have all been linked to neonatal hypothermia.
-      - As a result, we took sure to keep an eye on the neonate's temperature in a non-invasive manner
+      - As a result, we took sure to keep an eye on the neonate's temperature in a non-invasive manner.
 
-
-     3.  MAX30100 HeartRate and SpO2  sensor: The heart is one of the most important indicators that may be used to assess a patient's overall health. 
+  3.  MAX30100 HeartRate and SpO2  sensor: The heart is one of the most important indicators that may be used to assess a patient's overall health. 
       - The number of heartbeats per minute is represented in our system.Electrocardiographs are routinely used to monitor electrical heart signals (ECG). 
       - Meanwhile, ECG necessitates the continual application of numerous electrodes with a particular gel, causing discomfort, suffering, and skin damage in the fragile preterm child. It's also difficult to manage.
       - In order to overcome this, we used infrared technology to extract the heartbeats
