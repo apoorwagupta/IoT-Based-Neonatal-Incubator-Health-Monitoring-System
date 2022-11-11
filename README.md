@@ -57,5 +57,7 @@ Below is the brief description of our system :
 
 * LED SYSTEM :  The data is analysed by the LED system, which involves determining the best safe range of the parameters for determining medical emergencies and predicting possible infections/diseases that may pose a hazard to the infant and thereby alarming the staff in such case, with suitable LED indication, whereas the excel sheet records can be referred while the prescription of medicines and for analysis and assessment by the doctor.
 
-
+----
+* arduino.ino : arduino file
+* swee1.py : python file for the webserver
 
